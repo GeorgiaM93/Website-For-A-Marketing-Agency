@@ -1,2 +1,2 @@
-# challenge-one
-The challenge of the first week
+# Creating a simple webesite
+A basic website for a marketing agency
